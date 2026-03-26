@@ -1,0 +1,10 @@
+# Ignore dataset folders and zips
+ml-latest-small/
+ml-latest-small.zip
+Dataset/
+
+# Ignore generated output logs
+output_fixed.txt
+clean_out.txt
+output.txt
+__pycache__/
